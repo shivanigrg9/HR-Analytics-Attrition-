@@ -1,0 +1,6 @@
+employee_id,age,department,salary,experience,attrition
+1,28,Sales,30000,2,Yes
+2,35,IT,45000,6,No
+3,41,HR,38000,10,No
+4,29,IT,42000,3,Yes
+5,32,Sales,31000,4,No
